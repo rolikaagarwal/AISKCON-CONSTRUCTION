@@ -810,7 +810,7 @@ ul {
   .imagegallery:hover .image-text1 {
     opacity: 1;
     transform: scale(1);
-    transform-origin: top left;
+    /* transform-origin: top left; */
   }
 }
 
